@@ -1,2 +1,9 @@
-# Data-analytics-projects-
-Data analytics projects using Excel, Power BI, SQL, and Python.
+# Data Analytics Projects
+
+This repository contains data analytics projects developed using:
+- Excel
+- Power BI
+- SQL
+- Python (NumPy, Pandas)
+
+The projects focus on data cleaning, analysis, visualization, and insights generation.
